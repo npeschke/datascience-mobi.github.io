@@ -4,7 +4,7 @@ author: "Carl Herrmann"
 date: "15/04/2019"
 #output: github_document
 output:
-  rmdformats::html_clean:
+  rmdformats::readthedown:
     highlight: kate
 ---
 ```{r setup, include=FALSE}
