@@ -36,4 +36,24 @@ You will find a description of the projects an a list of supervisors/tutors in t
 
 ## Rules
 
-### Choice of the projects
+### How do I select my project/team?
+
+* each project will be worked out by groups of **4 students**. 
+* the choice of project and definition of the teams should be completed by **Wednesday, 24th April** (no extension!)
+* once the choice has been made, register your team in the Google Sheet (URL provided during the first presentation)
+
+### Who will help me?
+
+For each topic, there will be a **master tutor** assigned to this topic. Each team will have **weekly meetings** with his tutor on **Wednesday between 10am and 1 pm** during 20-30 minutes.
+
+Meeting places will be:
+
+* BioQuant Seminar room SR042 / SR044
+* BioQuant meeting lounges (ground floor, red sofas)
+* IPMB meeting room 5th floor (behind the CIP room)
+
+### What am I supposed to do?
+
+1. select your project and you teammates (see point above)
+2. prepare a 10 minutes presentation based on the indicated literature for each project, listing the relevant questions/topics that you want to adress in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them. The presentation will be on **Wednesday, 15th May** in from of the supervors.
+
