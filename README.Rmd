@@ -3,9 +3,10 @@ title: "Data Analysis - MoBi SS2019"
 author: "Carl Herrmann"
 date: "15/04/2019"
 #output: github_document
-output: html_document
+output:
+  rmdformats::html_clean:
+    highlight: kate
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
