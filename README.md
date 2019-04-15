@@ -14,6 +14,7 @@ output:
 
 ## Presentation
 
+
 The goal of the Data Analysis Module in the Summer Semester is to provide **hands-on experience** in data analysis of large scale datasets and get first insights into using computational tools to provide a reproducible data analysis.
 
 After this module, you will have
