@@ -6,6 +6,7 @@ date: "15/04/2019"
 output:
   rmdformats::readthedown:
     highlight: kate
+    keep_md: true
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
