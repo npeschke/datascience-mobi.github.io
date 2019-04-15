@@ -61,32 +61,42 @@ $(document).ready(function () {
       <li><a href="#presentation">Presentation</a></li>
       <li><a href="#topics">Topics</a></li>
       <li><a href="#rules">Rules</a></li>
+      <li><a href="#practical-aspects">Practical aspects</a></li>
       </ul>
     </div>
 </div>
 
 <div id="main">
+<hr />
 <div id="presentation" class="section level2">
 <h2>Presentation</h2>
-<p>The goal of the Data Analysis Module in the Summer Semester is to provide hands-on experience in data analysis of large scale datasets and get first insights into using computational tools to provide a reproducible data analysis.</p>
+<p>The goal of the Data Analysis Module in the Summer Semester is to provide <strong>hands-on experience</strong> in data analysis of large scale datasets and get first insights into using computational tools to provide a reproducible data analysis.</p>
 <p>After this module, you will have</p>
 <ul>
 <li>gained skills in programming language such as R or Python (depending on the chosen project)</li>
 <li>learn to use tools to perform reproducible analysis, like Markdown/Notebooks and GitHub</li>
+<li>understand the key steps in a large-scale data analysis</li>
 </ul>
+<hr />
 </div>
 <div id="topics" class="section level2">
 <h2>Topics</h2>
 <p>We have defined <strong>5 topics</strong> in data analysis; each topic will comprise <strong>5 different projects</strong>. Most of the times, these 5 projects are very similar to each other but analyze slightly different datasets.</p>
-<p>You can find a description of the 5 projects here:</p>
+<p>You can find a description of the 5 topics here:</p>
 <ol style="list-style-type: decimal">
 <li><a href="https://github.com/datascience-mobi/01-genetic-interactions-in-cancer">Genetic interactions in cancer</a></li>
 <li><a href="https://github.com/datascience-mobi/02-cellular-response-to-drug-pertubations">Cellular response to drug perturbations</a></li>
 <li><a href="https://github.com/datascience-mobi/03-biomedical-image-analysis">Biomedical image analysis</a></li>
-<li><a href="https://github.com/datascience-mobi/04-single-cell-analysis-of-blood">single-cell expression analysis</a></li>
+<li><a href="https://github.com/datascience-mobi/04-kmeans">K-means programming</a></li>
 <li><a href="https://github.com/datascience-mobi/05-cancer-genomics">Cancer genomics</a></li>
 </ol>
 <p>You will find a description of the projects an a list of supervisors/tutors in these description files.</p>
+<p><strong>Important information</strong>:</p>
+<ul>
+<li>Topic 1,2,5 are data analysis topics/projects which will be conducted in R</li>
+<li>Topics 3,4 are rather <em>programming projects</em>, which require some more advanced programming skills, and will be done in Python.</li>
+</ul>
+<hr />
 </div>
 <div id="rules" class="section level2">
 <h2>Rules</h2>
@@ -100,7 +110,7 @@ $(document).ready(function () {
 </div>
 <div id="who-will-help-me" class="section level3">
 <h3>Who will help me?</h3>
-<p>For each topic, there will be a <strong>master tutor</strong> assigned to this topic. Each team will have <strong>weekly meetings</strong> with his tutor on <strong>Wednesday between 10am and 1 pm</strong> during 20-30 minutes.</p>
+<p>For each topic, there will be a <strong>master tutor</strong> assigned to this topic. Each team will have <strong>a weekly meeting</strong> with his tutor on <strong>Wednesday between 10am and 1 pm</strong> during 20-30 minutes.</p>
 <p>Meeting places will be:</p>
 <ul>
 <li>BioQuant Seminar room SR042 / SR044</li>
@@ -111,9 +121,37 @@ $(document).ready(function () {
 <div id="what-am-i-supposed-to-do" class="section level3">
 <h3>What am I supposed to do?</h3>
 <ol style="list-style-type: decimal">
-<li>select your project and you teammates (see point above)</li>
-<li>prepare a 10 minutes presentation based on the indicated literature for each project, listing the relevant questions/topics that you want to adress in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them. The presentation will be on <strong>Wednesday, 15th May</strong> in from of the supervors.</li>
+<li>select your project and you teammates and register <strong>before Wednesday, 24th April</strong></li>
+<li><strong>Project presentation on Wednesday, 15th May</strong>: prepare a 10 minutes presentation based on the indicated literature for each project, listing the relevant questions/topics that you want to adress in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them.</li>
+<li><strong>Midterm-presentation Wednesday 19th June</strong> (15 minutes)</li>
+<li><strong>Final presentation Wednesday 24th July</strong> (20 minutes)</li>
 </ol>
+</div>
+<div id="how-will-i-be-evaluated" class="section level3">
+<h3>How will I be evaluated?</h3>
+<p>Each student will have an individual evaluation! This will take into account the <em>3 presentations</em> listed above, as well as the report (markdown report / jupyter notebook depending on the projects).</p>
+<p>During the oral presentations, each student will be asked to explain part of the analysis, especially to explain the code! So everyone should make sure to be involved in the project.</p>
+<p>Reports will be submitted (or “committed”) to the Github repository of the group as a <code>.Rmd</code> or <code>.ipynb</code> file.</p>
+<p><strong>Important note</strong>: <em>Science is collaboration!</em> so please make sure to share your insights/knowledge with other groups! You are free to choose whatever way to do so, e.g. Whatsapp groups or <a href="https://slack.com/intl/de-de/">Slack groups</a>.</p>
+<hr />
+</div>
+</div>
+<div id="practical-aspects" class="section level2">
+<h2>Practical aspects</h2>
+<p>Depending on the projects, you will use either R (Topics 01/02/05) or python (Topics 03/04).</p>
+<div id="r-based-projects" class="section level3">
+<h3>R-based projects</h3>
+<p>You will use <a href="https://www.rstudio.com/">RStudio</a>, and create a <a href="https://rmarkdown.rstudio.com/">R markdown document</a>. These will consist in a mixture of plain text (explanations about the analysis, comments,…) and code pieces (called <code>chunks</code>). The advantage is that the report will be automatically generated (either as pdf or html document) when compiling the markdown file. All plots will be automatically and dynamically created from the code pieces in the markdown document.</p>
+</div>
+<div id="python-based-projects" class="section level3">
+<h3>Python based projects</h3>
+<p>Similar to R markdow documents, the <a href="https://jupyter.org/">Jupyter Notebook</a> offers a way to mix markdown text together with Python code. Installing Jupyter Notebook requires the installation of Python. Just follow the instructions on the previous link.</p>
+</div>
+<div id="github" class="section level3">
+<h3>GitHub</h3>
+<p>Git is a system to handle collaborative projects, in which each member of the team is contributing to the project. You can check <a href="https://guides.github.com/activities/hello-world/">this website</a> for a simple intro to Git/GitHub.</p>
+<p>Git can be used either from the command line, or using <a href="https://desktop.github.com/">GitHub Desktop</a>, a GUI manager which makes commiting changes, etc… very easy.</p>
+<p>This tool will help you (and us…) track the progress of your project.</p>
 </div>
 </div>
 </div>
