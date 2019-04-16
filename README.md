@@ -27,11 +27,11 @@ After this module, you will have
 
 ----------
 
-## Topics
+## Projects
 
-We have defined **5 topics** in data analysis; each topic will comprise **5 different projects**. Most of the times, these 5 projects are very similar to each other but analyze slightly different datasets.
+We have defined **5 projects** in data analysis; each project will comprise **5 different sub-projects**. Most of the time, these 5 sub-projects are very similar to each other but analyze slightly different datasets.
 
-You can find a description of the 5 topics here:
+You can find a description of the 5 projects here:
 
 1. [Genetic interactions in cancer](https://github.com/datascience-mobi/01-genetic-interactions-in-cancer)
 2. [Cellular response to drug perturbations](https://github.com/datascience-mobi/02-cellular-response-to-drug-pertubations)
@@ -43,8 +43,8 @@ You will find a description of the projects an a list of supervisors/tutors in t
 
 **Important information**:
 
-* Topic 1,2,5 are data analysis topics/projects which will be conducted in R
-* Topics 3,4 are rather *programming projects*, which require some more advanced programming skills, and will be done in Python.
+* Projects 1,2,5 are data analysis topics/projects which will be conducted in R
+* Projects 3,4 are rather *programming projects*, which require some more advanced programming skills, and will be done in Python.
 
 ----------
 
@@ -52,13 +52,13 @@ You will find a description of the projects an a list of supervisors/tutors in t
 
 ### How do I select my project/team?
 
-* each project will be worked out by groups of **4 students**. 
-* the choice of project and definition of the teams should be completed by **Wednesday, 24th April** (no extension!)
+* each sub-project will be worked out by groups of **4 students**. 
+* the choice of sub-project and definition of the teams should be completed by **Wednesday, 24th April** (no extension!)
 * once the choice has been made, register your team in the Google Sheet (URL provided during the first presentation)
 
 ### Who will help me?
 
-For each topic, there will be a **master tutor** assigned to this topic. Each team will have **a weekly meeting** with his tutor on **Wednesday between 10am and 1 pm** during 20-30 minutes.
+For each project, there will be a **master tutor** assigned to this project. Each team within a project will have **a weekly meeting** with his tutor on **Wednesday between 10am and 1 pm** during 20-30 minutes.
 
 Meeting places will be:
 
@@ -70,12 +70,11 @@ Meeting places will be:
 
 1. select your project and you teammates and register **before Wednesday, 24th April**
 2. **Project presentation on Wednesday, 15th May**: prepare a 10 minutes presentation based on the indicated literature for each project, listing the relevant questions/topics that you want to adress in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them. 
-3. **Midterm-presentation Wednesday 19th June** (15 minutes)
-4. **Final presentation Wednesday 24th July** (20 minutes)
+3. **Final presentation Wednesday 24th July** (20 minutes)
 
 ### How will I be evaluated?
 
-Each student will have an individual evaluation! This will take into account the *3 presentations* listed above, as well as the report (markdown report / jupyter notebook depending on the projects).
+Each student will have an individual evaluation! This will take into account the *2 presentations* listed above, as well as the report (markdown report / jupyter notebook depending on the projects).
 
 During the oral presentations, each student will be asked to explain part of the analysis, especially to explain the code! So everyone should make sure to be involved in the project.
 

@@ -72,12 +72,11 @@ Meeting places will be:
 
 1. select your project and you teammates and register **before Wednesday, 24th April**
 2. **Project presentation on Wednesday, 15th May**: prepare a 10 minutes presentation based on the indicated literature for each project, listing the relevant questions/topics that you want to adress in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them. 
-3. **Midterm-presentation Wednesday 19th June** (15 minutes)
-4. **Final presentation Wednesday 24th July** (20 minutes)
+3. **Final presentation Wednesday 24th July** (20 minutes)
 
 ### How will I be evaluated?
 
-Each student will have an individual evaluation! This will take into account the *3 presentations* listed above, as well as the report (markdown report / jupyter notebook depending on the projects).
+Each student will have an individual evaluation! This will take into account the *2 presentations* listed above, as well as the report (markdown report / jupyter notebook depending on the projects).
 
 During the oral presentations, each student will be asked to explain part of the analysis, especially to explain the code! So everyone should make sure to be involved in the project.
 
