@@ -44,6 +44,16 @@ You will find a description of the projects an a list of supervisors/tutors in t
 * Projects 1,2,5 are data analysis topics/projects which will be conducted in R
 * Projects 3,4 are rather *programming projects*, which require some more advanced programming skills, and will be done in Python.
 
+### Slides
+
+You can find the slides of the presentations made on Wednesday, 17th April here:
+
+* [General presentation (C. Herrmann)](./doc/Presentation.pdf)
+* [Presentation Project 03 (C. Ritter)](./doc/Project_03.pdf)
+* [Presentation Project 02 (J. Perales)](./doc/Project_02.pdf)
+
+
+
 ----------
 
 ## Rules
