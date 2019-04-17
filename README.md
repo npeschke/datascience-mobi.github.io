@@ -10,8 +10,6 @@ output:
 ---
 
 
-Carl Herrmann
-
 ----------
 
 ## Presentation
@@ -70,7 +68,7 @@ Meeting places will be:
 
 1. select your project and you teammates and register **before Wednesday, 24th April**
 2. **Project presentation on Wednesday, 15th May**: prepare a 10 minutes presentation (+10 minutes discussion/questions) based on the indicated literature for each project, listing the relevant questions/topics that you want to adress in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them. 
-3. **Final presentation Wednesday 24th July** (15 minutes + 10 minutes discussion / questions)
+3. **Final presentation Wednesday 24th July** (15 minutes + 10 minutes discussion / questions) (*Beware: final presentation project Project 03 will be on Thursday 25th July!*)
 
 ### How will I be evaluated?
 
