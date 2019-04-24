@@ -50,7 +50,7 @@ You will find a description of the projects an a list of supervisors/tutors in t
 
 You can find the slides of the presentations made on Wednesday, 17th April here:
 
-* [General presentation (C. Herrmann)](./doc/Presentation.pdf)
+* [General presentation - update 24/04/2019 (C. Herrmann)](./doc/Presentation.pdf)
 * [Presentation Project 03 (C. Ritter)](./doc/Project_03.pdf)
 * [Presentation Project 02 (J. Perales)](./doc/Project_02.pdf)
 
