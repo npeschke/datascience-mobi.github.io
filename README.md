@@ -52,7 +52,11 @@ You can find the slides of the presentations made on Wednesday, 17th April here:
 * [Presentation Project 03 (C. Ritter)](./doc/Project_03.pdf)
 * [Presentation Project 02 (J. Perales)](./doc/Project_02.pdf)
 
+### Documentation
 
+These are the Python Notebook files with Python intro provided by David Schwarzenbacher
+
+* [Python notebooks (D. Schwarzenbacher)](./doc/Python_Intro.zip)
 
 ----------
 
