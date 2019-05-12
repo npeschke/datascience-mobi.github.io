@@ -25,6 +25,10 @@ After this module, you will have
 
 ----------
 
+## News
+
+* 10/05/2019: the timetable of the project proposal presentations on Wednesday, 15/05 are [online here](https://docs.google.com/spreadsheets/d/1LEQLH2LaDulMq3Qepx-7-5KWjgZjK4dfWDDIbm1vu0Q/edit?usp=sharing)
+
 ## Projects
 
 We have defined **5 projects** in data analysis; each project will comprise **5 different sub-projects**. Most of the time, these 5 sub-projects are very similar to each other but analyze slightly different datasets.
