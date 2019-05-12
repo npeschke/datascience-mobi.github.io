@@ -28,11 +28,11 @@ After this module, you will have
 ## News
 
 * 10/05/2019: the timetable of the project proposal presentations on Wednesday, 15/05 are [online here](https://docs.google.com/spreadsheets/d/1LEQLH2LaDulMq3Qepx-7-5KWjgZjK4dfWDDIbm1vu0Q/edit?usp=sharing); remember the rules for this presentations:
- + 10 minute presentation + 10 minute discussion
- + organize the presentation into 
-   - ~5 minutes presentation of interesting results from the literature, which you use as an inspiration for your own project
-   - ~5 minutes presentation of your project plan: approximate timetable, milestones, etc...
- + each team member should be involved in the presentation!
+    + 10 minute presentation + 10 minute discussion
+    + organize the presentation into 
+         - ~5 minutes presentation of interesting results from the literature, which you use as an inspiration for your own project
+         - ~5 minutes presentation of your project plan: approximate timetable, milestones, etc...
+    + each team member should be involved in the presentation!
 
 ## Projects
 
