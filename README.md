@@ -33,12 +33,30 @@ After this module, you will have
 
 ## News
 
-* 10/05/2019: the timetable of the project proposal presentations on Wednesday, 15/05 are [online here](https://docs.google.com/spreadsheets/d/1LEQLH2LaDulMq3Qepx-7-5KWjgZjK4dfWDDIbm1vu0Q/edit?usp=sharing); remember the rules for this presentations:
-    + 10 minute presentation + 10 minute discussion
-    + organize the presentation into 
-         - ~5 minutes presentation of interesting results from the literature, which you use as an inspiration for your own project
-         - ~5 minutes presentation of your project plan: approximate timetable, milestones, etc...
-    + each team member should be involved in the presentation!
+### 9/07/2019: the final presentation will take place on the **24th July 2019** (25th for the project 5).
+
+the timetable of the final presentations on Wednesday, 24/07 are [online here](https://docs.google.com/spreadsheets/d/1LEQLH2LaDulMq3Qepx-7-5KWjgZjK4dfWDDIbm1vu0Q/edit?usp=sharing)
+
+#### What/when/how to submit?
+
+* The final markdown/jupyter document **MUST be committed on github by Sunday, 21st July** (please submit the source code as Rmd as well as a pdf document). This will give us time to look into the code before the presentations.
+* Make sure to clean/comment your code and output plots.
+* Make sure to only include code/plots that are relevant for your results! Please do NOT dump hundreds of plots and unused code in the submitted document
+         
+#### How to prepare the presentation?
+
+* 15 minutes presentation + 15 minutes discussion
+* Every group member must contribute to the oral presentation
+* The presentation should contain both biological interpretation, as well as technical aspects; selected code sections should be presented and explained
+* You can prepare a lighter version of your submitted markdown for the presentation, in which you only select a few of the plots/code chunks
+
+### 10/05/2019: the timetable of the project proposal presentations on Wednesday, 15/05 are [online here](https://docs.google.com/spreadsheets/d/1LEQLH2LaDulMq3Qepx-7-5KWjgZjK4dfWDDIbm1vu0Q/edit?usp=sharing); remember the rules for this presentations:
+
+* 10 minute presentation + 10 minute discussion
+* organize the presentation into 
+    - ~5 minutes presentation of interesting results from the literature, which you use as an inspiration for your own project
+    - ~5 minutes presentation of your project plan: approximate timetable, milestones, etc...
+* each team member should be involved in the presentation!
 
 ## Projects
 
