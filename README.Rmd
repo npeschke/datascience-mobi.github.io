@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis - MoBi SS2019"
+title: "Data Analysis - MoBi SS2020"
 author: "Carl Herrmann"
 date: "15/04/2019"
 #output: github_document
@@ -18,8 +18,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Responsible teacher: 
 
-#### Dr. Carl Herrmann
-#### carl.herrmann@uni-heidelberg.de
+#### Carl Herrmann
+#### carl.herrmann@bioquant.uni-heidelberg.de
 #### [Health Data Science Unit - Medical Faculty Heidelberg](http://www.hdsu.org)
 
 
@@ -35,49 +35,25 @@ After this module, you will have
 
 ## News
 
-### 9/07/2019: the final presentation will take place on the **24th July 2019** (25th for the project 3 "Biomedical image analysis"").
-
-the timetable of the final presentations on Wednesday, 24/07 are [online here](https://docs.google.com/spreadsheets/d/1LEQLH2LaDulMq3Qepx-7-5KWjgZjK4dfWDDIbm1vu0Q/edit?usp=sharing)
-
-#### What/when/how to submit?
-
-* The final markdown/jupyter document **MUST be committed on github by Sunday, 21st July** (please submit the source code as Rmd as well as a pdf document). This will give us time to look into the code before the presentations.
-* Make sure to clean/comment your code and output plots.
-* Make sure to only include code/plots that are relevant for your results! Please do NOT dump hundreds of plots and unused code in the submitted document
-         
-#### How to prepare the presentation?
-
-* 15 minutes presentation + 15 minutes discussion
-* Every group member must contribute to the oral presentation
-* The presentation should contain both biological interpretation, as well as technical aspects; selected code sections should be presented and explained
-* You can prepare a lighter version of your submitted markdown for the presentation, in which you only select a few of the plots/code chunks
-
-### 10/05/2019: the timetable of the project proposal presentations on Wednesday, 15/05 are [online here](https://docs.google.com/spreadsheets/d/1LEQLH2LaDulMq3Qepx-7-5KWjgZjK4dfWDDIbm1vu0Q/edit?usp=sharing); remember the rules for this presentations:
-
-* 10 minute presentation + 10 minute discussion
-* organize the presentation into 
-    - ~5 minutes presentation of interesting results from the literature, which you use as an inspiration for your own project
-    - ~5 minutes presentation of your project plan: approximate timetable, milestones, etc...
-* each team member should be involved in the presentation!
+We will provide news and deadlines under this section.
 
 ## Projects
 
-We have defined **5 projects** in data analysis; each project will comprise **5 different sub-projects**. Most of the time, these 5 sub-projects are very similar to each other but analyze slightly different datasets.
+We have defined **4 projects** in data analysis; each project will comprise **5 different sub-projects**. Most of the time, these 5 sub-projects are very similar to each other but analyze slightly different datasets.
 
 You can find a description of the 5 projects here:
 
-1. [Genetic interactions in cancer](https://github.com/datascience-mobi/01-genetic-interactions-in-cancer)
-2. [Cellular response to drug perturbations](https://github.com/datascience-mobi/02-cellular-response-to-drug-pertubations)
-3. [Biomedical image analysis](https://github.com/datascience-mobi/03-biomedical-image-analysis)
-4. [K-means programming](https://github.com/datascience-mobi/04-kmeans)
-5. [Cancer genomics](https://github.com/datascience-mobi/05-cancer-genomics)
+1. [Hallmarks of cancer and cancer metabolism](https://github.com/datascience-mobi/01_Cancer-Hallmarks_2020)
+2. [Biomedical image analysis](https://github.com/datascience-mobi/02_Image-Analysis_2020)
+3. [Analysis of Cancer transcriptome](https://github.com/datascience-mobi/03_Cancer-Transcriptome_2020)
+4. [Aberrant expression in metastatic lung cancer](https://github.com/datascience-mobi/04_Lung-Cancer_2020)
 
 You will find a description of the projects an a list of supervisors/tutors in these description files.
 
 **Important information**:
 
-* Projects 1,2,5 are data analysis topics/projects which will be conducted in R
-* Projects 3,4 are rather *programming projects*, which require some more advanced programming skills, and will be done in Python.
+* Projects 1,3,4 are data analysis topics/projects which will be conducted in R
+* Projects 2 is rather a *programming project*, which requires some more advanced programming skills, and will be done in Python.
 
 ### Slides
 
@@ -100,24 +76,19 @@ These are the Python Notebook files with Python intro provided by David Schwarze
 ### How do I select my project/team?
 
 * each sub-project will be worked out by groups of **4 students**. 
-* the choice of sub-project and definition of the teams should be completed by **Wednesday, 24th April** (no extension!)
+* the choice of sub-project and definition of the teams should be completed by **XXXX** (no extension!)
 * once the choice has been made, register your team in the Google Sheet (URL provided during the first presentation)
 
 ### Who will help me?
 
-For each project, there will be a **master tutor** assigned to this project. Each team within a project will have **a weekly meeting** with his tutor on **Wednesday between 10am and 1 pm** during 20-30 minutes.
+For each project, there will be a **master tutor** assigned to this project. Each team within a project will have **a weekly online meeting** with his tutor on **Wednesday between 10am and 1 pm** during 20-30 minutes.
 
-Meeting places will be:
-
-* BioQuant Seminar room SR042 / SR044
-* BioQuant meeting lounges (ground floor, red sofas)
-* IPMB meeting room 5th floor (behind the CIP room)
 
 ### What am I supposed to do?
 
-1. select your project and you teammates and register **before Wednesday, 24th April**
-2. **Project presentation on Wednesday, 15th May**: prepare a 10 minutes presentation (+10 minutes discussion/questions) based on the indicated literature for each project, listing the relevant questions/topics that you want to adress in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them. 
-3. **Final presentation Wednesday 24th July** (15 minutes + 10 minutes discussion / questions) (*Beware: final presentation project Project 03 will be on Thursday 25th July!*)
+1. select your project and you teammates and register **before XXXXXl**
+2. **Project presentation on XXXXX**: prepare a 10 minutes presentation (+10 minutes discussion/questions) based on the indicated literature for each project, listing the relevant questions/topics that you want to adress in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them. 
+3. **Final presentation XXXX** (15 minutes + 10 minutes discussion / questions) 
 
 ### How will I be evaluated?
 
@@ -133,7 +104,7 @@ Reports will be submitted (or "committed") to the Github repository of the group
 
 ## Practical aspects
 
-Depending on the projects, you will use either R (Topics 01/02/05) or python (Topics 03/04). 
+Depending on the projects, you will use either R (Topics 01/03/04) or python (Topics 02). 
 
 ### R-based projects
 
