@@ -60,7 +60,7 @@ You can find the videos presenting the overall organization of the course, as we
 * [General presentation - update 24/04/2019 (C. Herrmann)]()
 * [Presentation Project 01 (C. Herrmann)]()
 * [Presentation Project 02 (C. Ritter)](https://youtu.be/6DIKBiq_T3g)
-* [Presentation Project 03 (C. Heyer)]()
+* [Presentation Project 03 (C. Heyer)](https://youtu.be/7gtzjOnReC8)
 * [Presentation Project 04 (A. Dugourd)](https://www.twitch.tv/videos/597324040)
 
 
@@ -76,22 +76,24 @@ These are the Python Notebook files with Python intro provided by David Schwarze
 
 ### How do I select my project/team?
 
-* check the project description on this page!
-* select your teammates; each sub-project will be worked out by groups of **4 students**. 
-* once the choice has been made, register your team in the [Google Sheet](https://docs.google.com/spreadsheets/d/1jZ6fissYZsaxXeWwvzSioOhV_9f4er5HUzaLABEkJEk/edit?usp=sharing) **(registration will open Friday 24.04, 10 am)** 
-* the choice of sub-project and definition of the teams should be completed by **Wednesday, 29.04** (no extension!)
+1. check the project description on this page!
+2. select your teammates; each sub-project will be worked out by groups of **4 students**. 
+3. once the choice has been made, register your team in the [Google Sheet](https://docs.google.com/spreadsheets/d/1jZ6fissYZsaxXeWwvzSioOhV_9f4er5HUzaLABEkJEk/edit?usp=sharing) **(registration will open Friday 24.04, 10 am)**; the choice of sub-project and definition of the teams should be completed by **Wednesday, 29.04** (no extension!)
+4. create a **[GitHub account](https://github.com)** and register your github name in the registration Google Sheet
+
 
 ### Who will help me?
 
 For each project, there will be a **master tutor** assigned to this project. Each team within a project will have **a weekly online meeting** with his tutor on **Wednesday between 10am and 1 pm** during 20-30 minutes.
 
-**VERY IMPORTANT**: as the time which the tutor can dedicate to your project is limited, you should **carefully prepare** your meeting. We have provided a template which should help you organize your weekly meeting efficiently!
+**VERY IMPORTANT**: as the weekly time which the tutor can dedicate to your project is limited, you should **carefully prepare** your meeting. We have provided a template which should help you organize your weekly meeting efficiently!
 
 ### What am I supposed to do?
 
 1. select your project and you teammates and register **before Wednesday, 29.04, 10am**
+2. go to DataCamp, and follow some of the [recommended courses in R/python](#datacamp), which will help you start with your project!
 2. **Project presentation on 20.05**: prepare a 10 minutes presentation (+10 minutes discussion/questions) based on the indicated literature for each project, listing the relevant questions/topics that you want to adress in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them. 
-3. **Final presentation mid/end JulyX** (15 minutes + 10 minutes discussion / questions) 
+3. **Final presentation mid/end July** (15 minutes + 10 minutes discussion / questions) 
 
 ### How will I be evaluated?
 
@@ -135,6 +137,26 @@ These will consist in a mixture of plain text (explanations about the analysis, 
 ### Python based projects
 
 Similar to R markdow documents, the [Jupyter Notebook](https://jupyter.org/) offers a way to mix markdown text together with Python code. Installing Jupyter Notebook requires the installation of Python. Just follow the instructions on the previous link.
+
+### DataCamp <a name='datacamp'></a>
+
+You have been provided a registration link to DataCamp; as part of this course, you get a **free, full access** to all DataCamp courses! Use it...
+
+We recommend taking some basic courses, before you start with your project; this will help you in overcoming the initial difficulties (reading a data frame, accessing a file, ...); here are the courses we recommend taking
+
+#### R-projects
+
+* [Introduction to R](https://learn.datacamp.com/courses/free-introduction-to-r)
+* [Intermediate R](https://learn.datacamp.com/courses/intermediate-r)
+* [Cleaning data in R](https://learn.datacamp.com/courses/cleaning-data-in-r)
+* [Data Visualization in R](https://learn.datacamp.com/courses/data-visualization-in-r)
+* and many others, as you will progress through your project...
+
+#### Python projects
+
+* [Intro to python for data science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+* [Intermediate Python for data science](https://learn.datacamp.com/courses/intermediate-python-for-data-science)
+* [Unsupervised learning in Python](https://learn.datacamp.com/courses/unsupervised-learning-in-python)
 
 
 ### GitHub
