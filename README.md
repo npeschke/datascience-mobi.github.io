@@ -1,7 +1,7 @@
 ---
 title: "Data Analysis - MoBi SS2020"
 author: "Carl Herrmann"
-date: "15/04/2019"
+date: "22/04/2020"
 #output: github_document
 output:
   rmdformats::readthedown:
@@ -100,6 +100,7 @@ For each project, there will be a **master tutor** assigned to this project. Eac
 Each student will have an individual evaluation! This will take into account the *2 presentations* listed above, as well as the report (markdown report / jupyter notebook depending on the projects).
 
 Here are the relevant points taken into account during the **project proposal presentation**:
+
 * presentation of the literature results
 * understanding of the biological question
 * clarity of presentation of planned analysis and milestones
@@ -130,9 +131,11 @@ You will use [RStudio](https://www.rstudio.com/), and create a [R markdown docum
 
 * An alternative possibility is to use the RStudio server that has been set up on the de.NBI cloud; this requires some additional steps from your side:
 
-#### Markdown documents
+#### RMarkdown documents
 
 These will consist in a mixture of plain text (explanations about the analysis, comments,...) and code pieces (called `chunks`). The advantage is that the report will be automatically generated (either as pdf or html document) when compiling the markdown file. All plots will be automatically and dynamically created from the code pieces in the markdown document.
+
+Have a look at [this tutorial](https://rmarkdown.rstudio.com/lesson-1.html) or [this one](https://support.rstudio.com/hc/en-us/articles/205368677-R-Markdown-Dynamic-Documents-for-R) to get started with RMarkdown; RMarkdown is very easy to generate with RStudio.
 
 ### Python based projects
 
