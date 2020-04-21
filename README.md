@@ -57,7 +57,7 @@ You will find a description of the projects an a list of supervisors/tutors in t
 
 You can find the videos presenting the overall organization of the course, as well as individual presentations for each project:
 
-* [General presentation (C. Herrmann)](https://youtu.be/2gzv9EXI6ZE)
+* [General presentation (C. Herrmann)](https://youtu.be/2gzv9EXI6ZE) (here the [slides](./doc/DataAnalysis_Presentation_2020.pdf))
 * [General presentation of the website (C. Herrmann)](https://youtu.be/UqDWy6AN3Nc)
 
 * [Presentation Project 01 (C. Herrmann)](https://youtu.be/V-a1esUGDHM)
