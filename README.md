@@ -68,6 +68,14 @@ You can find the videos presenting the overall organization of the course, as we
 
 ### Documentation
 
+Introduction to GitHub
+
+* [Intro to GitHub](https://youtu.be/tTwftnbWr6E)
+* [Push / Pull changes in GitHub](https://youtu.be/dz7x5MoZdbA)
+* [Resolve conflicts](https://youtu.be/2P5FM2WTNcQ)
+
+Here some [slides on GitHub](./doc/github.pdf)
+
 These are the Python Notebook files with Python intro provided by David Schwarzenbacher
 
 * [Python notebooks (D. Schwarzenbacher)](./doc/Python_Intro.zip)
