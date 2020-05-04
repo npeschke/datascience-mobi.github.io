@@ -35,7 +35,9 @@ After this module, you will have
 
 ## News
 
-We will provide news and deadlines under this section.
+
+* **4.05** : for those who have issues loading the large datasets into RStudio on their private laptop (due to lack of memory), you can use a RStudio Server which has been set up in a virtual machine on the de.NBI cloud. **Beware, it is not totally trivial to set this up!!**; you can find instructions in [this document](./doc/instruction_rstudio.pdf). In case of trouble, get help by the tutors!
+
 
 ## Projects
 
