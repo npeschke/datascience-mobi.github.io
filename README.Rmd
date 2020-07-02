@@ -35,14 +35,14 @@ After this module, you will have
 
 ## News
 
-* **23.06**: The **submission date** for the projects is **Monday, July 27th, 12h00**. Make sure to commit:
+* **23.06**: The **submission date** for the projects is **Monday, August 3rd, 12h00**. Make sure to commit:
     1. the Rmd file or Python code of your project
     2. a pdf or html version of your RMarkdown documents, and
     3. a preliminary version of your presentation as pdf. 
 
 before the deadline.
 
-The presentations will take place on the **Thursday, 30th**. The exact timetable will be announced before.
+The presentations will take place on the **Friday, August 7th**. The exact timetable will be announced before.
 
 * **4.05** : for those who have issues loading the large datasets into RStudio on their private laptop (due to lack of memory), you can use a RStudio Server which has been set up in a virtual machine on the de.NBI cloud. **Beware, it is not totally trivial to set this up!!**; you can find instructions in [this document](./doc/instruction_rstudio.pdf). In case of trouble, get help by the tutors!
 
