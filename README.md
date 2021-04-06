@@ -1,7 +1,7 @@
 ---
-title: "Data Analysis - MoBi SS2020"
+title: "Data Analysis - MoBi SS2021"
 author: "Carl Herrmann"
-date: "22/04/2020"
+date: "12/04/2021"
 #output: github_document
 output:
   rmdformats::readthedown:
@@ -19,7 +19,9 @@ Responsible teacher:
 #### Carl Herrmann
 #### carl.herrmann@bioquant.uni-heidelberg.de
 #### [Health Data Science Unit - Medical Faculty Heidelberg](http://www.hdsu.org)
-
+#### Maiwen Caudron-Herger
+#### m.caudron@dkfz-heidelberg.de
+#### Division - RNA Biology & Cancer (B150)
 
 The goal of the Data Analysis Module in the Summer Semester is to provide **hands-on experience** in data analysis of large scale datasets and get first insights into using computational tools to provide a reproducible data analysis.
 
@@ -33,35 +35,24 @@ After this module, you will have
 
 ## News
 
-* **23.06**: The **submission date** for the projects is **Monday, August 3rd, 12h00**. Make sure to commit:
-    1. the Rmd file or Python code of your project
-    2. a pdf or html version of your RMarkdown documents, and
-    3. a preliminary version of your presentation as pdf. 
-
-before the deadline.
-
-The presentations will take place on the **Friday, August 7th**. The exact timetable will be announced before.
-
-* **4.05** : for those who have issues loading the large datasets into RStudio on their private laptop (due to lack of memory), you can use a RStudio Server which has been set up in a virtual machine on the de.NBI cloud. **Beware, it is not totally trivial to set this up!!**; you can find instructions in [this document](./doc/instruction_rstudio.pdf). In case of trouble, get help by the tutors!
-
 
 ## Projects
 
-We have defined **4 projects** in data analysis; each project will comprise **5 different sub-projects**. Most of the time, these 5 sub-projects are very similar to each other but analyze slightly different datasets.
+We have defined **4 projects** in data and image analysis; each project will comprise **5 different sub-projects**. Most of the time, these 5 sub-projects are very similar to each other but analyze slightly different datasets.
 
 You can find a description of the 4 projects here:
 
-1. [Hallmarks of cancer and cancer metabolism](https://github.com/datascience-mobi/01_Cancer-Hallmarks_2020)
-2. [Biomedical image analysis](https://github.com/datascience-mobi/02_Image-Analysis_2020)
-3. [Analysis of Cancer transcriptome](https://github.com/datascience-mobi/03_Cancer-Transcriptome_2020)
-4. [Aberrant expression in metastatic lung cancer](https://github.com/datascience-mobi/04_Lung-Cancer_2020)
+1. [Drug sensitivity in cancer cell lines](https://github.com/datascience-mobi/01_DrugSensitivity_2021)
+2. [The role of tissue-specific antigens in different cancer entities](https://github.com/datascience-mobi/02_TissueSpecificAntigens_2021)
+3. [Proteome-wide Screen for RNA-dependent Proteins](https://github.com/datascience-mobi/03_ProteomScreen_2021)
+4. [Biomedical image analysis](https://github.com/datascience-mobi/04_Image-Analysis_2021)
 
 You will find a description of the projects an a list of supervisors/tutors in these description files.
 
 **Important information**:
 
-* Projects 1,3,4 are data analysis topics/projects which will be conducted in R
-* Project 2 is an image analysis project which will be performed in Python
+* Projects 1,2,3 are data analysis topics/projects which will be conducted in R
+* Project 4 is an image analysis project which will be performed in Python
 
 ### Online presentations
 
