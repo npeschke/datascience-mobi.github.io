@@ -61,10 +61,6 @@ You can find the videos presenting the overall organization of the course, as we
 * [General presentation (C. Herrmann)](https://youtu.be/2gzv9EXI6ZE) (here the [slides](./doc/DataAnalysis_Presentation_2020.pdf))
 * [General presentation of the website (C. Herrmann)](https://youtu.be/UqDWy6AN3Nc)
 
-* [Presentation Project 01 (C. Herrmann)](https://youtu.be/V-a1esUGDHM)
-* [Presentation Project 02 (C. Ritter)](https://youtu.be/6DIKBiq_T3g)
-* [Presentation Project 03 (C. Heyer)](https://youtu.be/7gtzjOnReC8)
-* [Presentation Project 04 (A. Dugourd)](https://www.twitch.tv/videos/597324040)
 
 
 ### Documentation
