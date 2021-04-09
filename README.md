@@ -38,21 +38,24 @@ After this module, you will have
 
 ## Projects
 
-We have defined **4 projects** in data and image analysis; each project will comprise **5 different sub-projects**. Most of the time, these 5 sub-projects are very similar to each other but analyze slightly different datasets.
+We have defined **4 topics** in data and image analysis; each project will comprise **5 different sub-projects**. Most of the time, these 5 sub-projects are very similar to each other but analyze slightly different datasets.
 
-You can find a description of the 4 projects here:
+You can find a description of the 4 topics here:
 
-1. [Drug sensitivity in cancer cell lines](https://github.com/datascience-mobi/01_DrugSensitivity_2021)
-2. [The role of tissue-specific antigens in different cancer entities](https://github.com/datascience-mobi/02_TissueSpecificAntigens_2021)
-3. [Proteome-wide Screen for RNA-dependent Proteins](https://github.com/datascience-mobi/03_ProteomScreen_2021)
-4. [Biomedical image analysis](https://github.com/datascience-mobi/04_Image-Analysis_2021)
+* Topic 01 : [Drug sensitivity in cancer cell lines](https://github.com/datascience-mobi/01_DrugSensitivity_2021)
+
+* Topic 02: [The role of tissue-specific antigens in different cancer entities](https://github.com/datascience-mobi/02_TissueSpecificAntigens_2021)
+
+* Topic 03 : [Proteome-wide Screen for RNA-dependent Proteins](https://github.com/datascience-mobi/03_ProteomScreen_2021)
+
+* Topic 04: [Biomedical image analysis](https://github.com/datascience-mobi/04_Image-Analysis_2021)
 
 You will find a description of the projects an a list of supervisors/tutors in these description files.
 
 **Important information**:
 
-* Projects 1,2,3 are data analysis topics/projects which will be conducted in R
-* Project 4 is an image analysis project which will be performed in Python
+* Topics 1,2,3 are data analysis topics/projects which will be conducted in R
+* Topic 4 is an image analysis project which will be performed in Python
 
 ### Online presentations
 
@@ -60,7 +63,8 @@ You can find the videos presenting the overall organization of the course, as we
 
 * [General presentation (C. Herrmann)](https://youtu.be/2gzv9EXI6ZE) (here the [slides](./doc/DataAnalysis_Presentation_2020.pdf))
 * [General presentation of the website (C. Herrmann)](https://youtu.be/UqDWy6AN3Nc)
-
+* [Presentation of Topic 03 (M. Caudron- Herger)](https://www.dropbox.com/s/gim8pvb9vt25rmm/2021_Project3_Data_Analysis.mp4?dl=0)
+* [Presentation of Topic 04](https://youtu.be/KsHL5Y2hG-k)
 
 
 ### Documentation
@@ -85,7 +89,7 @@ These are the Python Notebook files with Python intro provided by David Schwarze
 
 1. check the project description on this page!
 2. select your teammates; each sub-project will be worked out by groups of **4 students**. 
-3. once the choice has been made, register your team in the [Google Sheet](https://docs.google.com/spreadsheets/d/1jZ6fissYZsaxXeWwvzSioOhV_9f4er5HUzaLABEkJEk/edit?usp=sharing) **(registration will open Friday 24.04, 10 am)**; the choice of sub-project and definition of the teams should be completed by **Wednesday, 29.04** (no extension!)
+3. once the choice has been made, register your team in the [Google Sheet](https://docs.google.com/spreadsheets/d/1d14actyERQVPlBKaIdWjsiWxSj1AmTkQLxILqxGO9pw/edit?usp=sharing) **(registration will open Friday 24.04, 10 am)**; the choice of sub-project and definition of the teams should be completed by **Wednesday, 29.04** (no extension!)
 4. create a **[GitHub account](https://github.com)** and register your github name in the registration Google Sheet
 
 
@@ -126,7 +130,7 @@ Final reports will be submitted (or "committed") to the Github repository of the
 
 ## Practical aspects
 
-Depending on the projects, you will use either R (Topics 01/03/04) or python (Topics 02). 
+Depending on the projects, you will use either R (Topics 01/02/03) or python (Topics 04). 
 
 ### R-based projects
 
@@ -136,7 +140,6 @@ You will use [RStudio](https://www.rstudio.com/), and create a [R markdown docum
 
 * For those of you who want to work on their laptops, you can install RStudio using the previous link; however, since some datasets are rather large, you will need a decent laptop to be able to process the data in a reasonable time (i5/i7 CPUs with 8Gb RAM at least)
 
-* An alternative possibility is to use the RStudio server that has been set up on the de.NBI cloud; this requires some additional steps from your side:
 
 #### RMarkdown documents
 
