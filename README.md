@@ -35,6 +35,7 @@ After this module, you will have
 
 ## News
 
+* Project proposal presentation will take place on **Wednesday, 12th May**
 
 ## Projects
 
