@@ -59,10 +59,10 @@ You will find a description of the projects an a list of supervisors/tutors in t
 
 You can find the videos presenting the overall organization of the course, as well as individual presentations for each project:
 
-* [General presentation of the website (C. Herrmann)](https://youtu.be/UqDWy6AN3Nc)
+* [General presentation of the website (C. Herrmann)](https://youtu.be/UqDWy6AN3Nc) *(this is the version from last year, but no changes regarding the general structure of the websites!)*
 * [Presentation of Topic 01 (C. Herrmann)](https://youtu.be/ppjwu2--9dI)
 * [Presentation of Topic 03 (M. Caudron- Herger)](https://www.dropbox.com/s/gim8pvb9vt25rmm/2021_Project3_Data_Analysis.mp4?dl=0)
-* [Presentation of Topic 04](https://youtu.be/KsHL5Y2hG-k)
+* [Presentation of Topic 04 (K. Rohr/C. Ritter)](https://youtu.be/KsHL5Y2hG-k)
 
 
 ### Documentation
