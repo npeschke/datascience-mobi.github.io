@@ -14,14 +14,10 @@ output:
 
 ## Presentation
 
-Responsible teacher: 
+Responsible teachers: 
 
-#### Carl Herrmann
-#### carl.herrmann@bioquant.uni-heidelberg.de
-#### [Health Data Science Unit - Medical Faculty Heidelberg](http://www.hdsu.org)
-#### Maiwen Caudron-Herger
-#### m.caudron@dkfz-heidelberg.de
-#### Division - RNA Biology & Cancer (B150)
+#### Carl Herrmann (carl.herrmann@bioquant.uni-heidelberg.de) - [Health Data Science Unit - Medical Faculty Heidelberg](http://www.hdsu.org)
+#### Maiwen Caudron-Herger (m.caudron@dkfz-heidelberg.de) - Division - RNA Biology & Cancer (B150)
 
 The goal of the Data Analysis Module in the Summer Semester is to provide **hands-on experience** in data analysis of large scale datasets and get first insights into using computational tools to provide a reproducible data analysis.
 
@@ -92,7 +88,7 @@ These are the Python Notebook files with Python intro provided by David Schwarze
 
 1. check the project description on this page!
 2. select your teammates; each sub-project will be worked out by groups of **4 students**. 
-3. once the choice has been made, register your team in the [Google Sheet](https://docs.google.com/spreadsheets/d/1d14actyERQVPlBKaIdWjsiWxSj1AmTkQLxILqxGO9pw/edit?usp=sharing) **(registration will open Friday 16.04, 1pm)**; the choice of sub-project and definition of the teams should be completed by **Wednesday, 22.04** (no extension!)
+3. once the choice has been made, register your team in the [Google Sheet](https://docs.google.com/spreadsheets/d/1d14actyERQVPlBKaIdWjsiWxSj1AmTkQLxILqxGO9pw/edit?usp=sharing) **(registration will open Friday 16.04, 1pm)**; the choice of sub-project and definition of the teams should be completed by **Wednesday, 21.04, 10am** (no extension!)
 4. create a **[GitHub account](https://github.com)** and register your github name in the registration Google Sheet
 
 
@@ -104,9 +100,9 @@ For each project, there will be a **master tutor** assigned to this project. Eac
 
 ### What am I supposed to do?
 
-1. select your project and you teammates and register **before Wednesday, 29.04, 10am**
+1. select your project and you teammates and register **before Wednesday, 21.04, 10am**
 2. go to DataCamp, and follow some of the [recommended courses in R/python](#datacamp), which will help you start with your project!
-2. **Project presentation on 20.05**: prepare a 10 minutes presentation (+10 minutes discussion/questions) based on the indicated literature for each project, listing the relevant questions/topics that you want to adress in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them. 
+2. **Project presentation on 12.05**: prepare a 10 minutes presentation (+10 minutes discussion/questions) based on the indicated literature for each project, listing the relevant questions/topics that you want to adress in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them. 
 3. **Final presentation mid/end July** (15 minutes + 10 minutes discussion / questions) 
 
 ### How will I be evaluated?
@@ -156,7 +152,7 @@ Similar to R markdow documents, the [Jupyter Notebook](https://jupyter.org/) off
 
 ### DataCamp <a name='datacamp'></a>
 
-You have been provided a registration link to DataCamp; as part of this course, you get a **free, full access** to all DataCamp courses! Use it...
+You have been provided a registration link to DataCamp (check the Moodle webpage); as part of this course, you get a **free, full access** to all DataCamp courses! Use it...
 
 We recommend taking some basic courses, before you start with your project; this will help you in overcoming the initial difficulties (reading a data frame, accessing a file, ...); here are the courses we recommend taking
 
