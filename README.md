@@ -27,6 +27,15 @@ After this module, you will have
 * learn to **use tools to perform reproducible analysis**, like Markdown/Notebooks and GitHub
 * understand the **key steps in a large-scale data analysis**
 
+
+### In a nutshell...
+
+* choose your team and one project
+* prepare and present a 10 min. project proposal on **May, 12th**
+* work on your project during the whole term
+* meet your tutor every week
+* prepare a final report and make a final presentation in July
+
 ----------
 
 ## News
@@ -40,13 +49,13 @@ We have defined **4 topics** in data and image analysis; each project will compr
 
 You can find a description of the 4 topics here:
 
-* Topic 01 : [Drug sensitivity in cancer cell lines](https://github.com/datascience-mobi/01_DrugSensitivity_2021)
+* Topic 01 : [Drug sensitivity in cancer cell lines](https://github.com/datascience-mobi/01_DrugSensitivity_2021) (Tutor: Stefan Holderbach)
 
-* Topic 02: [The role of tissue-specific antigens in different cancer entities](https://github.com/datascience-mobi/02_TissueSpecificAntigens_2021)
+* Topic 02: [The role of tissue-specific antigens in different cancer entities](https://github.com/datascience-mobi/02_TissueSpecificAntigens_2021) (Tutor: Nils Mechtel)
 
-* Topic 03 : [Proteome-wide Screen for RNA-dependent Proteins](https://github.com/datascience-mobi/03_ProteomScreen_2021)
+* Topic 03 : [Proteome-wide Screen for RNA-dependent Proteins](https://github.com/datascience-mobi/03_ProteomScreen_2021) (Tutorin: Leonie Thomas)
 
-* Topic 04: [Biomedical image analysis](https://github.com/datascience-mobi/04_Image-Analysis_2021)
+* Topic 04: [Biomedical image analysis](https://github.com/datascience-mobi/04_Image-Analysis_2021) (Tutor: Nicholas Peschke)
 
 You will find a description of the projects an a list of supervisors/tutors in these description files.
 
