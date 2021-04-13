@@ -55,7 +55,7 @@ You can find a description of the 4 topics here:
 
 * Topic 03 : [Proteome-wide Screen for RNA-dependent Proteins](https://github.com/datascience-mobi/03_ProteomScreen_2021) (Tutorin: Leonie Thomas)
 
-* Topic 04: [Biomedical image analysis](https://github.com/datascience-mobi/04_Image-Analysis_2021) (Tutor: Nicholas Peschke)
+* Topic 04: [Biomedical image analysis](https://github.com/datascience-mobi/04_Image-Analysis_2021) (Tutor: Nicolas Peschke)
 
 You will find a description of the projects an a list of supervisors/tutors in these description files.
 
